@@ -32,7 +32,7 @@ on different receptacle objects.
 Clone the repository using:
 
 ```bash
-git clone git@github.com:gpaschalidis/reachingfield.git
+git clone git@github.com:gpaschalidis/ReachingField.git
 cd reachingfield
 ```
 Run the following commands:
