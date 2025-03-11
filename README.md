@@ -33,7 +33,7 @@ Clone the repository using:
 
 ```bash
 git clone git@github.com:gpaschalidis/ReachingField.git
-cd reachingfield
+cd ReachingField
 ```
 Run the following commands:
 ```bash
